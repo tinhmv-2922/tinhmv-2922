@@ -1,6 +1,6 @@
 ### Hi there, I'm Mei Wen-Xing  👋
 
-<img align="right" alt="GIF" src="https://github.com/tinhmv-2922/tinhmv-2922/blob/master/coder.gif?raw=true" width="350" height="320" />
+<img align="right" alt="GIF" src="https://github.com/tinhmv-2922/tinhmv-2922/blob/main/coder.gif?raw=true" width="350" height="320" />
 
 
 ## I'm a Developer, and !!
