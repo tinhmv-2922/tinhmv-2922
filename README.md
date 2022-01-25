@@ -1,0 +1,36 @@
+### Hi there, I'm Mei Wen-Xing  :wave:
+<img align="right" alt="GIF" src="https://github.com/tinhmv-2922/tinhmv-2922/blob/master/coder.gif?raw=true" width="350" height="320" />
+## I'm a Developer, and !!
+- :seedling: I’m currently learning everything :rolling_on_the_floor_laughing:
+- :dancers: I’m looking to collaborate with other hardworking coder
+- :goal_net: 2022 Goals: Contribute more to Open Source projects
+- :zap:  I love to photography and design
+### Connect with me:
+[<img align="left" alt="mwx | Twitter"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mwx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mwx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mwx | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="mwx | Tumblr"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][tumblr]
+<br />
+### Languages and Tools:
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs&logoColor=#ea2845)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
+<br />
+<br />
+<img align="left" alt="mwx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tinhmv-2922&show_icons=true&theme=radical" />
+<br/>
+<img align="left" alt="mwx's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhmv-2922&theme=radical&hide=html" />
+[twitter]: https://twitter.com/mwxtwt
+[instagram]: https://www.instagram.com/mwxins/
+[linkedin]: https://www.linkedin.com/in/mwxlin/
+[facebook]: https://www.facebook.com/mwxfb/
+[tumblr]: https://www.tumblr.com/blog/mwxtb
