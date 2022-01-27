@@ -1,4 +1,4 @@
-### Hi there, I'm Mei Wen-Xing  👋
+### Hi there, I'm Mei Wen-Xing - a Sunner 👋
 
 <img align="right" alt="GIF" src="https://github.com/tinhmv-2922/tinhmv-2922/blob/main/coder.gif?raw=true" width="350" height="320" />
 
